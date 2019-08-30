@@ -10,7 +10,6 @@ public class SkyReconClass {
 void ConflictHere() {
 		
 		String name = "Subrat Tripathi";
-
 		String name2 = "Akash Ranjan";
 
 	}
