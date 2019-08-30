@@ -6,9 +6,10 @@ public class SkyReconClass {
 		
 		System.out.println("This class is for SkyRecon PID");
 	}
-	
-	void ConflictHere() {
+
+void ConflictHere() {
 		
-		String name = "Arya Dey";
+		String name = "Subrat Tripathi";
+
 	}
 }
