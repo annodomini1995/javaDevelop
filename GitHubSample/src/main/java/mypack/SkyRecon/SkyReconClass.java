@@ -14,8 +14,5 @@ void ConflictHere() {
 		String name4 = "Debanjan Paul";
 	}
 
-	void Tritin() {
-		
-		System.out.println("Tritin added");
-	}
+	
 }
