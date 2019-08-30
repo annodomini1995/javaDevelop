@@ -14,4 +14,9 @@ void ConflictHere() {
 		String name3 = "Priyadarshi Abhishek";
 
 	}
+
+void addingtoMaster() {
+	
+		System.out.println("Added new function to master branch!");
+}
 }
