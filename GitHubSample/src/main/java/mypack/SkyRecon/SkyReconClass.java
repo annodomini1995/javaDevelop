@@ -28,7 +28,9 @@ public class SkyReconClass {
 	void MakeConflict() {
 		
 		System.out.println("There will be conflict here ...");
+		System.out.println("Adding from second contributor");
 	}
+	
 
 	
 }
