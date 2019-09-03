@@ -17,4 +17,8 @@ void ConflictHere() {
 	void addingFunctiontoFeature() {
 		System.out.println("Adding this function to the feature branch");
 	}
+	
+	void myOwnFunction2() {
+		System.out.println("SKYRECON!!!");
+	}
 }
