@@ -25,10 +25,10 @@ public class SkyReconClass {
 		System.out.println("Added new function to master branch!");
 	}
 	
-	void MakeConflict() {
-		
+void MakeConflict() {
+	System.out.println("Adding from second contributor");
 		System.out.println("There will be conflict here ...");
-		System.out.println("Adding from second contributor");
+		
 	}
 	
 
