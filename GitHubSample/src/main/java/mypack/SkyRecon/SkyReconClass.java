@@ -19,6 +19,6 @@ void ConflictHere() {
 	}
 	
 	void myOwnFunction2() {
-		System.out.println("SKYRECON!!!");
+		System.out.println("SKYRECON ZINDABAD!!!");
 	}
 }
