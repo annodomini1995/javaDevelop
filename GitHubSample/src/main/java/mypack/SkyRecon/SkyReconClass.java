@@ -11,5 +11,4 @@ public class SkyReconClass {
 		System.out.println("I have added my own function");
 	}
 
-	
 }
