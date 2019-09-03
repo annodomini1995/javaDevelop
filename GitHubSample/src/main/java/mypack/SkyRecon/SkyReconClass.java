@@ -8,7 +8,9 @@ public class SkyReconClass {
 	}
 
 	void myOwnFunction2() {
-		System.out.println("I have added my own function");
+
+		System.out.println("SKYRECON ZINDABAD!!!");
+
 	}
 
 }
