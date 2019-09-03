@@ -7,7 +7,7 @@ public class SkyReconClass {
 		System.out.println("This class is for SkyRecon PID");
 	}
 
-void ConflictHere() {
+	void ConflictHere() {
 		
 		String name = "Subrat Tripathi";
 		String name2 = "Akash Ranjan";
@@ -20,8 +20,15 @@ void ConflictHere() {
 
 	}
 
-void addingtoMaster() {
+	void addingtoMaster() {
 	
 		System.out.println("Added new function to master branch!");
-}
+	}
+	
+	void MakeConflict() {
+		
+		System.out.println("There will be conflict here ...");
+	}
+
+	
 }
