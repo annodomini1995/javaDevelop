@@ -7,7 +7,7 @@ public class SkyReconClass {
 		System.out.println("This class is for SkyRecon PID");
 	}
 
-	void myOwnFunction() {
+	void myOwnFunction2() {
 		System.out.println("I have added my own function");
 	}
 
